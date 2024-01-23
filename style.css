@@ -1,0 +1,46 @@
+    body
+{
+	background: gray;
+}
+
+    p
+{
+	font-size: 20px;
+	
+}
+
+
+h1
+{
+	text-align: center;
+}
+
+h2
+{
+	text-align: center;
+}
+
+a{
+	display: inline-block;
+  margin-top:0px; margin-right:85px; margin-bottom:0px; margin-left:118px;
+}
+
+.frame {
+               border: 3px
+               solid #000000;  
+                }
+        .button {
+display: inline-block;
+padding: 12px 90px;
+font-size: 16px;
+font-weight: bold;
+text-decoration: none;
+background-color: #4CAF50;
+color: white;
+border-radius: 10px;
+border: none;
+cursor: pointer;
+                }
+.button:hover {
+background-color: #45a049;
+}
